@@ -40,12 +40,12 @@ Agile Defense, Quantico, VA — 2015 – 2017
 - Create reporting dashboard designs and reports for each environment that are specific to the following audiences: Leadership & Executives; Cybersecurity Staff; and System Administrators.
 
 ***Senior Systems Administrator***  
-Bowhead, Dahlgren, VA — 2014–2015
+Bowhead, Dahlgren, VA — 2014 – 2015
 - Managed critical DoD infrastructure systems ensuring 99.9% uptime across multiple classified environments.
 - Implemented automated patching solutions reducing system vulnerabilities by 65% and decreasing maintenance windows.
 
 ***Systems Administrator***  
-Tekla Research, Fredericksburg, VA — 2012–2014
+Tekla Research, Fredericksburg, VA — 2012 – 2014
 - Orchestrated migration of legacy systems to virtualized environment, reducing hardware costs by 40% while improving system performance.
 - Maintained security compliance across all systems per DoD security requirements and DISA STIGs.
 
