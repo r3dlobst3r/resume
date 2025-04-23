@@ -1,5 +1,5 @@
 # Andrew Shuman
-540-538-5600 | andrewshuman@outlook.com | 2758 Stonesmith Ct, Tucker, GA 30084
+540-538-5600 | jobs_for_andrew@outlook.com | 2758 Stonesmith Ct, Tucker, GA 30084
 
 **Cybersecurity Leader & Architect** with 10+ years of experience designing and implementing enterprise security solutions. Specializes in vulnerability management, security automation, and compliance frameworks. Proven track record of leading technical teams and driving security initiatives that balance risk reduction with operational efficiency.
 
