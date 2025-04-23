@@ -20,14 +20,14 @@
 ## Experience
 
 ***Lead Architect: Cybersecurity***  
-AT&T Technology Services, Tucker, GA — 2022 – Present
+AT&T Technology Services, Tucker, GA — 2021 – Present
 - Technical lead of 9 contributors focusing on infrastructure security and automation of vulnerability management, attack surface management, vulnerability incident priority response and vulnerability remediation planning and strategy.
 - Lead tool rationalization for CSO organization saving $2 million dollars annually while improving security coverage by 85%.
 - Mean time to remediate critical vulnerabilities by 40% through automation initiatives.
 - Lead design, development, and deployment of the authenticated scanning program to support PCI DSS 4.0, utilizing a mix of agent-based vulnerability scanning and remote credentialed scans
 
 ***Senior Architect: Cybersecurity***  
-Virtustream, Remote, VA — 2017 - 2022
+Virtustream, Remote, VA — 2017 - 2021
 - Supported FedRAMP, SOC2, PCI/DSS, ISO audits, and other framework assessments.
 - Automated ticket generation and assignment to asset owners using Tenable.sc API and ServiceNow integration improving response time by owners by 90% and remediation time by 85%.
 - Utilized Python to automate Burp scanning of web applications through the Burp Professional API.
