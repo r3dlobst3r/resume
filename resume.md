@@ -27,11 +27,12 @@ AT&T Technology Services, Tucker, GA — 2021 – Present
 - Lead design, development, and deployment of the authenticated scanning program to support PCI DSS 4.0, utilizing a mix of agent-based vulnerability scanning and remote credentialed scans
 
 ***Senior Architect: Cybersecurity***  
-Virtustream, Remote, VA — 2017 - 2021
-- Supported FedRAMP, SOC2, PCI/DSS, ISO audits, and other framework assessments.
-- Automated ticket generation and assignment to asset owners using Tenable.sc API and ServiceNow integration improving response time by owners by 90% and remediation time by 85%.
-- Utilized Python to automate Burp scanning of web applications through the Burp Professional API.
-- Developed custom alerts and dashboards using various security tools' APIs to provide comprehensive security insights.
+Virtustream, Remote, VA — 2017–2021
+- Designed and implemented enterprise security architecture supporting FedRAMP, SOC2, PCI/DSS, and ISO compliance frameworks for cloud infrastructure servicing Fortune 500 clients.
+- Architected end-to-end vulnerability management solution integrating Tenable.sc and ServiceNow, reducing remediation time by 85% through automated ticket generation and workflow orchestration.
+- Led design of scalable web application security testing framework leveraging Burp Professional API with custom Python orchestration, enabling continuous security validation across 200+ applications.
+- Developed comprehensive security monitoring architecture incorporating custom data pipelines, alerts, and executive dashboards that provided real-time visibility across multi-cloud environments.
+- Established security reference architectures and design patterns for cloud deployments, ensuring consistent security controls across infrastructure and application layers.
 
 ***Senior Engineer: Cybersecurity***  
 Agile Defense, Quantico, VA — 2015 – 2017
